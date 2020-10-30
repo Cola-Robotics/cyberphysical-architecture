@@ -6,3 +6,5 @@ Installation:
     `npm install -g commitizen`
 3) Download and install MATLAB and the system composer tool
 4) In matlab run `systemcomposer` and open robot_system.slx
+
+Use `git cz` to make commits instead of `git commit`
