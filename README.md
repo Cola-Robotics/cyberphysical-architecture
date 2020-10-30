@@ -1,7 +1,7 @@
 # cyberphysical-architecture
 
 Installation:
-1) Download and install from [here](npm https://nodejs.org/en/)
+1) Download and install npm from [here](https://nodejs.org/en/)
 2) Install commititzen. See [this page](http://commitizen.github.io/cz-cli/)
     `npm install -g commitizen`
 3) Download and install MATLAB and the system composer tool
